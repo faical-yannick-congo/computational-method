@@ -1,2 +1,2 @@
-# repro-terms
-Scientific Reproducibility Terminology Consensus Repository
+# Computational Method
+Scientific Computational Terminology Consensus Inititative
