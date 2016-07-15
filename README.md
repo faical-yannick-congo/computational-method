@@ -1,2 +1,2 @@
 # Computational Method
-Scientific Computational Terminology Consensus Inititative
+Scientific Computational Terminology Consensus Inititative.
